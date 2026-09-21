@@ -69,7 +69,7 @@ dos processos de qualidade.
 - [**CTFL — Certified Tester Foundation Level**](https://bcr.bstqb.org.br/certificados/26-CTFL-15949-BR-(3E4D).pdf)
   ISTQB — International Software Testing Qualifications Board
 
-- [![Boot.dev Introduction to Python Course certificate](https://www.boot.dev/certificates/3a2642c9-6cc5-4c6d-9533-b90c06943345)
+- [**Boot.dev Introduction to Python Course certificate**](https://www.boot.dev/certificates/3a2642c9-6cc5-4c6d-9533-b90c06943345)
 
 ## 📚 Atualmente estudando
 
