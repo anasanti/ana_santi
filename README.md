@@ -89,7 +89,7 @@ Aqui você pode encontrar projetos relacionados a:
 
 ## 📫 Entre em contato
 
-- 💼 LinkedIn: [(Ana Santi)](https://www.linkedin.com/in/anasanti/)]
+- 💼 LinkedIn: [(Ana Santi)](https://www.linkedin.com/in/anasanti/)
 - 📧 Email: acpsfun@gmail.com
 
 ---
